@@ -25,7 +25,7 @@ The repository contains following files
 
 > Training graphs is in cell 9 of the notebook
 
-![training](D:\Udacity\3.Robotics\Term1\Projects\4.RoboND-DeepLearning-Project\Submission\training.png)
+![training](https://github.com/Shilpaj1994/Follow-me/blob/master/images/training.png?raw=true)
 
 - After the 20 epochs, the loss is still decreasing and the **mean-IoU is 49.60%**
 
@@ -41,7 +41,7 @@ The repository contains following files
 
 > More image comparison is in the cell 13, 14 and 15 of the notebook
 
-![result](D:\Udacity\3.Robotics\Term1\Projects\4.RoboND-DeepLearning-Project\Submission\result.png)
+![result](https://github.com/Shilpaj1994/Follow-me/blob/master/images/result.png?raw=true)
 
 ---
 
@@ -51,7 +51,7 @@ The repository contains following files
 - To detect the exact location of the 'hero' in an image, we need a network in which spatial information is carried till the output layer and hence we have used a Fully Convolutional Network (FCN) 
 - In Fully Convolutional Network (FCN), dimensions of input and output are same
 
-![Network Image](D:\Udacity\3.Robotics\Term1\Projects\4.RoboND-DeepLearning-Project\network.png)
+![Network Image](https://github.com/Shilpaj1994/Follow-me/blob/master/images/network.png?raw=true)
 
 > Code for Model Architecture is in the cell 6
 
